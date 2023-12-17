@@ -1,0 +1,47 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+
+canvas {
+  display: block;
+}
+
+.shutterBtn {
+  background-color: white;
+  border : black solid;
+  border-radius : 50%;
+}
+
+.autoBtn {
+  background-color: white;
+  border: gray 1px solid;
+  border-radius : 10%;
+  
+  font-size: 28px;
+  color: gray;
+  text-align: center;
+}
+
+
+.gallBtn {
+  background-color: #242424;
+  border-radius : 8px;
+  border: none;
+  
+  font-size: 34px; 
+  color: white;
+  text-align: center;
+}
+
+.poseBtn {
+  background-color: #242424;
+  border-radius : 8px;
+  border: none;
+  
+  font-size: 34px; /*32*/
+  color: white;
+  text-align: center;
+  
+}
